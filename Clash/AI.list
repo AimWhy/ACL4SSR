@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN,aisandbox-pa.googleapis.com
 DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN-KEYWORD,google
 
 # >> DeepMind
 DOMAIN-SUFFIX,deepmind.com
